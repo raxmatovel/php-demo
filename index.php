@@ -73,4 +73,8 @@ if ($status=='savol_3'){
        change_event_code('savol_4',$cid);
 }
 
+
+asdasdsa 
+sadasdsad 
+sadasd
 ?>
