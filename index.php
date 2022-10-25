@@ -1,7 +1,7 @@
 <?
 
 
-/*savol_1*/
+
 if ($status=='savol_1') {
   $mtext = $message->getText();  
 
